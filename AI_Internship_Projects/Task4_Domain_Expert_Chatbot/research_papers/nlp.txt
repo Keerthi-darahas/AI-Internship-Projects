@@ -1,0 +1,5 @@
+Natural Language Processing is a field of Artificial Intelligence that focuses on interaction between computers and human language.
+
+NLP applications include chatbots, translation systems, sentiment analysis, and speech assistants.
+
+Tokenization, stemming, and text vectorization are common NLP techniques.

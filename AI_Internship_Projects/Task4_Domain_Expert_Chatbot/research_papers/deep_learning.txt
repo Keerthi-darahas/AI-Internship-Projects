@@ -1,0 +1,7 @@
+Deep Learning is a subset of Machine Learning based on neural networks with multiple layers.
+
+Neural networks are inspired by the structure of the human brain.
+
+Deep Learning is widely used in computer vision, speech recognition, and autonomous vehicles.
+
+Convolutional Neural Networks are commonly used for image processing tasks.
