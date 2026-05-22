@@ -159,7 +159,7 @@ A chatbot supporting multiple languages with automatic language detection.
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/AI_Internship_Projects.git
+git clone https://github.com/Keerthi-darahas/AI_Internship_Projects.git
 ```
 
 ## Install Required Libraries
